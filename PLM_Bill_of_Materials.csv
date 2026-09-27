@@ -1,0 +1,8 @@
+Level,Part Number,Part Name,Qty,Manufacturing Process,Material,Release Status,ECR Reference
+0,FT-01-00,Fuel Tank Assembly,1,Assembly,Mixed,Released,Initial Release
+.1,FT-01-01,Blow Molded Tank Shell,1,Blow Molding,HDPE / EVOH (6-Layer),Released,Initial Release
+.1,FT-01-02,Fuel Pump Module Flange,1,Injection Molding,POM (Polyoxymethylene),Released,Initial Release
+.1,FT-01-03,Mounting Bracket RH,1,Stamping,FeP04 Steel,In-Work,ECR-2026-004
+.1,FT-01-04,Mounting Bracket LH,1,Stamping,FeP04 Steel,Released,Initial Release
+.1,FT-01-05,Sealing Gasket - Flange,1,Compression Molding,FKM (Fluorocarbon Elastomer),Released,Initial Release
+.1,FT-01-06,M6 Flanged Hex Bolt,4,Standard Part,Class 8.8 Steel (Zinc Plated),Standard,N/A
